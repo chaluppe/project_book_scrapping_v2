@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.vscode/ # Opcional: ignorar configurações do VS Code específicas do usuário
+.ipynb_checkpoints/ # Se usar Jupyter Notebooks
+
+# Dados gerados (crucial para o seu projeto)
+data/
+*.csv # Ignora todos os CSVs na raiz, se você tiver outros além de data/books.csv
