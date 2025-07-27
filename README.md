@@ -2,6 +2,12 @@
 # Fonte:
 https://books.toscrape.com/  <br>
 
+# Documentação completa
+https://docs.google.com/document/d/1EAfve-J_WsHJ7hdbWJ7fMKf15a91eqN-qnSc4OjGArk/edit?usp=sharing
+
+<br>
+
+# Estrutura
 project_book_scrapping/ <br>
 ├── data/ <br>
 │   └── books.csv - [Arquivo gerado pelo seu script de scraping] <br>
