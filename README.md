@@ -36,7 +36,8 @@ project_book_scrapping/ <br>
 http://127.0.0.1:5000/  <br>
 Export - data/books.csv  <br>
 http://127.0.0.1:5000/docs/  <br>
-Render - https://project-book-scrapping-v2.onrender.com <br>
+Render Deploy - https://project-book-scrapping-v2.onrender.com <br>
+Render - https://dashboard.render.com/web/srv-d232k1ngi27c73fgrfug <br>
 
 <br>
 <br>
