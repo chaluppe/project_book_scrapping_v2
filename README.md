@@ -27,7 +27,7 @@ project_book_scrapping/ <br>
 2- .\venv\Scripts\activate (ou source venv/bin/activate no linux/mac)  <br>
 3- pip install -r requirements.txt  <br>
 4- exec webscrapping - python scripts/scrape_books.py  <br>
-5- Chama api - python api/app.py  <br>
+5- [Chama api] - python api/app.py  <br>
 
 <br>
 <br>
